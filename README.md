@@ -14,7 +14,7 @@ and [Shipyard](https://shipyard.build) out of the box.
 - [Flask-SQLAlchemy](https://github.com/pallets/flask-sqlalchemy) - ORM toolkit
 - [LocalStack](https://github.com/localstack/localstack) - fully functional local AWS cloud stack
 
-## Dependencies just test - 1
+## Dependencies
 
 - [Docker](https://www.docker.com) & [Docker Compose](https://docs.docker.com/compose) - to build and run the app
 - [Make](https://www.gnu.org/software/make/manual/make.html) - to easily run commands needed for development
