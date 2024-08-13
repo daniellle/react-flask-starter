@@ -60,11 +60,6 @@ services:
     ports:
       - '5432'
 
-  redis:
-    image: 'redis:5.0-alpine'
-    ports:
-      - '6379'
-
   localstack:
     image: 'localstack/localstack:2.3.0'
     environment:
