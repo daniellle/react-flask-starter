@@ -3,7 +3,7 @@
 A React starter project with Flask backend that works with [Docker](https://www.docker.com), [Docker Compose](https://docs.docker.com/compose),
 and [Shipyard](https://shipyard.build) out of the box.
 
-## Includes
+## Includes 2
 
 - [React](https://github.com/facebook/react) - JavaScript library for building user interfaces
 - [Material-UI](https://github.com/mui-org/material-ui) - React components for faster and simpler web development
