@@ -13,7 +13,7 @@ and [Shipyard](https://shipyard.build) out of the box.
 - [Celery](https://github.com/celery/celery) (with example heartbeat task configured) - distributed task queue
 - [Flask-SQLAlchemy](https://github.com/pallets/flask-sqlalchemy) - ORM toolkit
 - [LocalStack](https://github.com/localstack/localstack) - fully functional local AWS cloud stack
-
+ 5
 ## Dependencies
 
 - [Docker](https://www.docker.com) & [Docker Compose](https://docs.docker.com/compose) - to build and run the app
